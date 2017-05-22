@@ -1,6 +1,6 @@
 Custom svg-icons based on  [Font Awesome Cheatsheet](http://fontawesome.io/cheatsheet/) 
 
-## How to generate new svg
+## How to generate new svg-based font
 
 1. Install Font Awesome on your system. See this [youtube video](https://www.youtube.com/watch?v=tGs_omrgeBk)
 2. Install [Inkscape](https://inkscape.org/it/download/)
